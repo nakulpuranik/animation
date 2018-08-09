@@ -1,0 +1,92 @@
+[
+  {
+    "id":1,
+    "title":"The Shawshank Redemption",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+  },
+  {
+    "id":2,
+    "title":"The Godfather",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+  },
+  {
+    "id":3,
+    "title":"The Godfather: Part II",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg"
+  },
+  {
+    "id":4,
+    "title":"The Dark Knight",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg"
+  },
+  {
+    "id":5,
+    "title":"12 Angry Men",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/9/91/12_angry_men.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/9/91/12_angry_men.jpg"
+  },
+  {
+    "id":6,
+    "title":"Schindler's List",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
+  },
+  {
+    "id":7,
+    "title":"The Lord of the Rings",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg"
+  },
+  {
+    "id":8,
+    "title":"Pulp Fiction",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+  },
+  {
+    "id":9,
+    "title":"The Good, the Bad and the Ugly",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg"
+  },
+  {
+    "id":10,
+    "title":"Fight Club",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg"
+  },
+  {
+    "id":11,
+    "title":"Forrest Gump",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+  },
+  {
+    "id":12,
+    "title":"Inception",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+  },
+  {
+    "id":13,
+    "title" :"Goodfellas",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg"
+  },
+  {
+    "id":14,
+    "title":"The Matrix",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+  },
+  {
+    "id":15,
+    "title":"Seven Samurai",
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/en/8/84/Seven_Samurai_movie_poster.jpg",
+    "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/en/8/84/Seven_Samurai_movie_poster.jpg"
+  }
+]

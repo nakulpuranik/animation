@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animation Assignment</string>
+    <string name="connect_to_internet">Please connect to internet.</string>
+    <string name="online_movie_list">Movies List</string>
+</resources>
